@@ -1,4 +1,7 @@
 [![Java CI with Maven](https://github.com/hutte42/se-lab/actions/workflows/maven.yml/badge.svg?event=push)](https://github.com/hutte42/se-lab/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 # SE Spaceship
 
