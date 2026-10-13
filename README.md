@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/hutte42/se-lab/actions/workflows/maven.yml/badge.svg?event=push)](https://github.com/hutte42/se-lab/actions/workflows/maven.yml)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
